@@ -17,7 +17,7 @@ module.exports = function( env = { environment: 'production', watch: false, buil
 			'wp-polyfill-fetch': 'whatwg-fetch',
 			'wp-polyfill-element-closest': 'element-closest',
 			'wp-polyfill-node-contains': 'polyfill-library/polyfills/Node/prototype/contains/polyfill.js',
-			'wp-polyfill-url': 'polyfill-library/polyfills/URL/polyfill.js',
+			'wp-polyfill-url': 'core-js-url-browser',
 			'wp-polyfill-dom-rect': 'polyfill-library/polyfills/DOMRect/polyfill.js',
 			'wp-polyfill-formdata': 'formdata-polyfill',
 			'moment': 'moment',
