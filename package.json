@@ -63,7 +63,6 @@
 		"matchdep": "~2.0.0",
 		"node-sass": "~4.13.1",
 		"source-map-loader": "^0.2.4",
-		"uglify-js": "^3.6.0",
 		"uglifyjs-webpack-plugin": "2.2.0",
 		"wait-on": "3.3.0",
 		"webpack": "4.41.0",
